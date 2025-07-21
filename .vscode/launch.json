@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch ContactManager",
+      "request": "launch",
+      "mainClass": "ContactManager",
+      "vmArgs": "-cp \"lib/mysql-connector-java-8.0.xx.jar;.\""
+    }
+  ]
+}
